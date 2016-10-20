@@ -10,6 +10,7 @@ Problem:
 
     The function 'spell_check' should take a string input,
     which will be a single word, and check whether this rule
+
     is being followed.  If it is, it should print "Correct",
     otherwise it should print "False".
 
@@ -41,4 +42,16 @@ def run_tests():
 
 # Edit this code
 def spell_check(word):
+
+    if in word  > e:
+        print("Correct")
+
+    elif in word e > i:
+        print("False")
+
+    elif in word c
+    C > e and i:
+        print("Correct")
+
+    
 
